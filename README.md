@@ -14,6 +14,7 @@
 
 ### Features Not Implemented with Reasons
 - Logout: Implemented the logout function but button was aesthetically unpleasing so avoided.
+- Sub categories: Because they were not getting received from given api call.
 - State Managers: Would have definitely implemented Bloc for production or at least Provider, but opted for basic set state due to the assignment's simplicity.
 - Sorting: Considered it, but deemed it lengthy for the assignment's purpose.
 - Searching: Deemed excessive for the assignment's scope.
